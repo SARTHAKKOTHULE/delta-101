@@ -1,2 +1,2 @@
 # delta-101
-first project
+first project of github
