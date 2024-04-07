@@ -1,2 +1,2 @@
 # delta-101
-first project of github
+first project of github clone
